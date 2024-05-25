@@ -2,6 +2,8 @@
 
 Welcome to the repository of example projects using Trivule! This repository aims to share and discover projects integrating Trivule, helping the community to learn and get inspired.
 
+## Examples
+
 ## How to Contribute
 
 Do you have a project you would like to add to this list? Follow the steps below to create a Pull Request and add your project.
