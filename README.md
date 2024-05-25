@@ -70,14 +70,6 @@ Stack: React, Node.js, Trivule.
 
 ---
 
-Thank you for your contribution! If you have any questions, feel free to open an issue.
-
----
-
-This README has been designed to make contributing as simple and clear as possible. If you have suggestions for improvement, we would love to hear them!
-
----
-
 You can integrate this text directly into the `README.md` file of your [Trivule Showcases](https://github.com/trivule/showcases) repository.Of course! Here is the translated README in English:
 
 ---
