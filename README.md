@@ -34,40 +34,6 @@ A short description of the project.
 
 Stack: Tech stack used.
 ```
-
-### Example
-
-```markdown
-### [my-awesome-project](https://github.com/username/my-awesome-project) by @[username](https://github.com/username)
-
-An amazing application that uses Trivule to enhance user experience.
-
-Stack: React, Node.js, Trivule.
-```
-
-5. **Commit your changes**: Save your changes and create a descriptive commit.
-    ```sh
-    git add README.md
-    git commit -m "Add my project to the examples list"
-    ```
-
-6. **Push your changes**: Push your changes to your fork on GitHub.
-    ```sh
-    git push origin add-project
-    ```
-
-7. **Create a Pull Request**: Go to your forked repository page on GitHub and click the "New Pull Request" button. Fill in the necessary information and submit your Pull Request.
-
-We will review your Pull Request and merge it as soon as possible!
-
-## Example Projects
-
-### [my-awesome-project](https://github.com/username/my-awesome-project) by @[username](https://github.com/username)
-
-An amazing application that uses Trivule to enhance user experience.
-
-Stack: React, Node.js, Trivule.
-
 ---
 
 You can integrate this text directly into the `README.md` file of your [Trivule Showcases](https://github.com/trivule/showcases) repository.Of course! Here is the translated README in English:
