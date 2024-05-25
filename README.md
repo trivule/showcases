@@ -3,6 +3,13 @@
 Welcome to the repository of example projects using Trivule! This repository aims to share and discover projects integrating Trivule, helping the community to learn and get inspired.
 
 ### Examples
+```markdown
+### [Trivule-React-Vite](https://github.com/devalade/trivule-react) by @[devalade](https://github.com/devalade)
+
+A minimal integration of Trivule and TrivuleForm with a simple hook implement to make you productive
+
+Stack: React + Vite.
+```
 
 ## How to Contribute
 
